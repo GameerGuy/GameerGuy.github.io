@@ -4307,3 +4307,8 @@ body.is-preload #banner p {
 	}
 
 }
+
+#vid{
+	margin: 0 auto;
+	display: block;
+}
