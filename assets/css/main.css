@@ -191,7 +191,7 @@ html {
 
 body {
 	background-color: #2e3141;
-	background-image: linear-gradient(to top, rgba(7, 16, 19, 0.5), rgba(7,16,19, 0)), url("../../images/codeart.gif");
+	background-image: linear-gradient(to top, rgba(7, 16, 19, 0.5), rgba(7,16,19, 0)), url("../../images/codeart_HR.gif");
 	background-size: auto,
 		cover;
 	background-attachment: fixed,
